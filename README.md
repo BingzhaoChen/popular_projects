@@ -29,6 +29,9 @@ AI绘画最全资料合集
 [tabtoy](https://github.com/davyxu/tabtoy)  
 高性能表格数据导出器
 
+[GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck)  
+扫描国内可用的谷歌翻译IP
+
 # 其他
 
 [CS-Ebook](https://github.com/lining808/CS-Ebook)  
