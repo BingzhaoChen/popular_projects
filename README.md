@@ -17,6 +17,8 @@ AI绘画最全资料合集
 
 # 工具
 
+[android/ios图标一键生成](https://icon.wuruihong.com/)
+
 [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)  
 一键自动化 下载、安装、激活 Office 的利器。
 
